@@ -1,0 +1,9 @@
+﻿{
+  "Awesome Module A": {
+    "name": "Awesome Module A",
+    "className": "ModuleA",
+    "methods": [
+      "DoSomething"
+    ]
+  }
+}
